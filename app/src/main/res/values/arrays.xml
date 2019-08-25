@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="country">
+        <item>中国</item>
+        <item>美利坚合众国</item>
+        <item>俄罗斯</item>
+        <item>日本</item>
+        <item>德国</item>
+        <item>英国</item>
+        <item>阿富汗</item>
+        <item>塔吉克斯坦</item>
+        <item>阿拉伯联合酋长国</item>
+        <item>刚果民主共和国</item>
+        <item>吉尔吉斯斯坦</item>
+        <item>马达加斯加</item>
+        <item>哥斯达黎加</item>
+        <item>百慕大</item>
+    </string-array>
+</resources>
